@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 #include "vector.h"
-#include "vector.c"
 
 int main(int argc, char **argv) {
 	vector_t *v;
